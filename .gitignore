@@ -1,0 +1,7 @@
+config.ini
+/bin
+/lib
+/lib64
+pyenv.cfg
+/include
+/audio/*
