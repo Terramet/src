@@ -168,7 +168,7 @@ class Say:
         self.text_to_speech.set_service_url(self.config['TextToSpeech']['service_url'])
 
         self.aDir = "audio/"
-        self.audio_dir = "/u/mimic/git/care-o-bot/src/watson_integration/src/" + self.aDir
+        self.audio_dir = os.path.dirname(os.path.realpath(__file__)) + '/' + self.aDir
         self.voice='en-GB_CharlotteV3Voice' #'en-US_AllisonV3Voice'
         print('Say service setup.')
 
