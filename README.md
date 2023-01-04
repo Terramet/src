@@ -1,6 +1,6 @@
-## Conversation engine for Care-o-bot 4
+# Conversation engine for Care-o-bot 4
 
-# Requires atleast python 3.7.15 for pyaudio to work!!
+## Requires atleast python 3.7.15 for pyaudio to work!!
 
 If you are using the Care-o-bot you can install pyenv and swap to python 3.7.15 before creating a venv for the project.
 
