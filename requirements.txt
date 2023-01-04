@@ -18,6 +18,7 @@ fsspec==2022.11.0
 genapi==0.0.8
 HTMLParser==0.0.2
 hypothesis==6.60.0
+ibm-watson==6.1.0
 Image==1.5.33
 importlib_metadata==5.1.0
 ipaddr==2.2.0
